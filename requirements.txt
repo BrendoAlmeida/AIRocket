@@ -1,0 +1,4 @@
+rocketpy
+pandas
+numpy
+ipykernel
