@@ -2,3 +2,7 @@ rocketpy
 pandas
 numpy
 ipykernel
+scikit-learn
+joblib
+matplotlib
+xgboost
